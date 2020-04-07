@@ -7,7 +7,7 @@
 {"number":"4","name":"اذاعة القرآن الكريم من نابلس","description":"","logo":"/05.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"إذاعة القرآن الكريم تونس","description":"","logo":"/06.png","streamUrl":"http://5.135.194.225:8000/live","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"اذاعة القران الكريم من البحرين","description":"","logo":"/07.png","streamUrl":"http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"7","name":"اذاعة القران الكريم من غزة","description":"","logo":"https://raw.githubusercontent.com/tzafino/radioquran/master/08.jpg","streamUrl":"http://62.210.106.9:8010/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"اذاعة القران الكريم من غزة","description":"","logo":"/coran from Gazza.jpg","streamUrl":"http://62.210.106.9:8010/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"8","name":"إذاعة القرآن الكريم التعليمية غزة","description":"","logo":"/09.jpg","streamUrl":"http://s10.voscast.com:9986/;stream1582504701005/1","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"اذاعة القران الكريم من لبنان","description":"","logo":"/10.jpg","streamUrl":"http://162.244.81.30:8224/;stream.mp3?src=1","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"إذاعة القرآن الكريم من أبو ظبي","description":"","logo":"/11.jpg","streamUrl":"http://21303.live.streamtheworld.com/QURAN_KAREEM.mp3?1582506382858","yourmuzeId":"0","state":"1"},

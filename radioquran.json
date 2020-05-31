@@ -1,7 +1,7 @@
 {"success":true,"message":"","radios":[ 
 
 {"number":"0","name":"اذاعة القران الكريم السعودية","description":"","logo":"/01.jpg","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
-{"number":"1","name":"اذاعة القران الكريم من القاهرة","description":"","logo":"/02.jpg","streamUrl":"http://radio3.tarat.com:9994","yourmuzeId":"0","state":"1"},
+{"number":"1","name":"اذاعة القران الكريم من القاهرة","description":"","logo":"/02.jpg","streamUrl":"http://n05.radiojar.com/wa0yc40f2wzuv?rj-ttl=5&rj-tok=AAABcfcJDnEArvFcGGtheBXXgA","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"اذاعة القران الكريم الكويت","description":"","logo":"/03.jpg","streamUrl":"https://kwmedia.hibridmedia.com/kwmedia/kwholyquran/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"اذاعة الشارقة للقران الكريم","description":"","logo":"/04.jpg","streamUrl":"https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"اذاعة القرآن الكريم من نابلس","description":"","logo":"/05.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":"0","state":"1"},

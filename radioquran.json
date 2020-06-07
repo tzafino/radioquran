@@ -140,7 +140,7 @@
 {"number":"541","name":"تلاوات خاشعة 1","description":"","logo":"/401.png","streamUrl":"http://islam2day.tv:3000/","yourmuzeId":"0","state":"1"}, 	
 {"number":"551","name":"تلاوات خاشعة 2","description":"","logo":"/402.png","streamUrl":"http://live.mp3quran.net:9992/","yourmuzeId":"0","state":"1"}, 	
 {"number":"561","name":"اناشيد دينية","description":"","logo":"/403.png","streamUrl":"http://islam2day.tv:8000/","yourmuzeId":"0","state":"1"}, 	
-{"number":"571","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"/3afasi.jpg","streamUrl":"http://live.mp3quran.net:9982/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},
+{"number":"571","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"/3afasi.jpg","streamUrl":"http://server2.quraan.us:9922/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"581","name":"الشيخ محمود خليل الحصري","description":"","logo":"/elhasri.jpg","streamUrl":"http://live.mp3quran.net:9804/;","yourmuzeId":"0","state":"1"},
 {"number":"591","name":"الشيخ محمود علي البنا","description":"","logo":"/elbanna.jpg","streamUrl":"http://server2.quraan.us:9788/","yourmuzeId":"0","state":"1"},
 {"number":"601","name":"اسلام صبحي","description":"","logo":"/sobhi.jpg","streamUrl":"https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3","yourmuzeId":"0","state":"1"},
@@ -159,11 +159,11 @@
 {"number":"734","name":"إذاعة فتاوى الشيخ ابن عثيمين","description":"","logo":"/الشيخ ابن عثيمين.jpg","streamUrl":"http://server2.quraan.us:9890/;*.mp3","yourmuzeId":"0","state":"1"}, 
 
  
-{"number":"791","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
-{"number":"801","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://live.mp3quran.net:9988/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
+{"number":"791","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://server2.quraan.us:9852/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"801","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://quraan.us:9850/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"811","name":"إذاعة الشيخ سعود الشريم","description":"","logo":"/sa3od cherim.jpg","streamUrl":"http://quraan.us:9848/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"821","name":" إذاعة الرقية الشرعية 1","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"831","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://live.mp3quran.net:9972/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},  
+{"number":"831","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://server2.quraan.us:9904/;*.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"841","name":"إذاعة الشيخ وديع اليمني","description":"","logo":"/cheikh wadi3 yamani.jpg","streamUrl":"http://server2.quraan.us:9784/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"851","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"861","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/cheikh al 3osi.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 

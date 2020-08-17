@@ -58,7 +58,9 @@
 {"number":"72","name":"اذاعة تفسير القرآن","description":"","logo":"/73.jpg","streamUrl":"http://206.72.199.179:9992","yourmuzeId":"0","state":"1"}, 	
 {"number":"73","name":"الشيخ الزين محمد أحمد","description":"","logo":"/74.jpg","streamUrl":"https://alzainquran.radioca.st","yourmuzeId":"0","state":"1"}, 	
 {"number":"74","name":"راديو المديح النبوي","description":"","logo":"/75.png","streamUrl":"https://madieh.radioca.st","yourmuzeId":"0","state":"1"}, 	
-
+{"number":"75","name":"البرنامج العام","description":"","logo":"/mrnamaghaam.jpg","streamUrl":"https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8","yourmuzeId":"0","state":"1"},
+ 
+ 
  
 {"number":"405","name":"إذاعة الشيخ عبد العزيز الأحمد","description":"","logo":"/الشيخ عبد العزيز الأحمد.jpg","streamUrl":"http://quraan.us:9914/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"406","name":"إذاعة القارئ الشيخ عبدالهادي أحمد كناكري","description":"","logo":"/القارئ الشيخ عبدالهادي أحمد كناكري.jpg","streamUrl":"http://live.mp3quran.net:9850/;","yourmuzeId":"0","state":"1"},

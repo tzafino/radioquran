@@ -164,7 +164,7 @@
 {"number":"791","name":"quran by Ahmed Al Ajmi-إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://server2.quraan.us:9852/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"801","name":"quran by Abderrahman Al Soudais - إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://quraan.us:9850/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"811","name":"إذاعة الشيخ سعود الشريم","description":"","logo":"/sa3od cherim.jpg","streamUrl":"http://quraan.us:9848/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"821","name":" إذاعة الرقية الشرعية 1","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"821","name":"إذاعة الرقية الشرعية1- roqia by quran","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"831","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://server2.quraan.us:9904/;*.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"841","name":"إذاعة الشيخ وديع اليمني","description":"","logo":"/cheikh wadi3 yamani.jpg","streamUrl":"http://server2.quraan.us:9784/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"851","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
